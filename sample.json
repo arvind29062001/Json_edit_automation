@@ -1,14 +1,14 @@
 {
     "nruPromotion": [
         {
-            "bodyText": "hello world",
+            "bodyText": "ram weds sita",
             "promotionName": "ram"
         },
         {
-            "endDate": "1685806965",
-            "startDate": "1685547765",
-            "title": "hello",
-            "lastModifiedTime": "1685547765.914006",
+            "endDate": "1685808017",
+            "startDate": "1685548817",
+            "title": "hello world",
+            "lastModifiedTime": "1685548817.033064",
             "id": "1234"
         }
     ]
