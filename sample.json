@@ -1,0 +1,15 @@
+{
+    "nruPromotion": [
+        {
+            "bodyText": "hello world",
+            "promotionName": "ram"
+        },
+        {
+            "endDate": "1685806965",
+            "startDate": "1685547765",
+            "title": "hello",
+            "lastModifiedTime": "1685547765.914006",
+            "id": "1234"
+        }
+    ]
+}
