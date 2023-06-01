@@ -1,15 +1,15 @@
 {
     "nruPromotion": [
         {
-            "bodyText": "hello world",
-            "promotionName": "falvnoa"
+            "bodyText": "work is everything",
+            "promotionName": ""
         },
         {
-            "endDate": "1685808150",
-            "startDate": "1685548950",
-            "title": "ram is god",
-            "lastModifiedTime": "1685548950.951984",
-            "id": "2fea"
+            "endDate": "1685849532",
+            "startDate": "1685590332",
+            "title": "Krishna is God",
+            "lastModifiedTime": "1685590332.027455",
+            "id": "12345"
         }
     ]
 }
