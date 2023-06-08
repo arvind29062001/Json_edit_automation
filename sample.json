@@ -1,14 +1,14 @@
 {
     "nruPromotion": [
         {
-            "bodyText": "digital wallet",
-            "promotionName": "123"
+            "bodyText": "1234",
+            "promotionName": "ram"
         },
         {
-            "endDate": "1686483196",
-            "startDate": "1686223996",
-            "title": "Samsung R&D",
-            "lastModifiedTime": "1686223996.444869",
+            "endDate": "1686484458",
+            "startDate": "1686225258",
+            "title": "hello world",
+            "lastModifiedTime": "1686225258.833692",
             "id": "1"
         }
     ]
