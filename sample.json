@@ -1,15 +1,15 @@
 {
     "nruPromotion": [
         {
-            "bodyText": "1234",
-            "promotionName": "1234"
+            "bodyText": "1",
+            "promotionName": "1"
         },
         {
-            "endDate": "1687412934",
-            "startDate": "1687153734",
-            "title": "hello world",
-            "lastModifiedTime": "1687153734.200354",
-            "id": "1234"
+            "endDate": "1687426900",
+            "startDate": "1687167700",
+            "title": "1",
+            "lastModifiedTime": "1687167700.920268",
+            "id": "1"
         }
     ]
 }
